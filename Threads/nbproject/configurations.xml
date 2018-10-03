@@ -4,6 +4,9 @@
     <logicalFolder name="HeaderFiles"
                    displayName="Header Files"
                    projectFiles="true">
+      <itemPath>Counter.h</itemPath>
+      <itemPath>Customer.h</itemPath>
+      <itemPath>Display.h</itemPath>
     </logicalFolder>
     <logicalFolder name="ResourceFiles"
                    displayName="Resource Files"
@@ -12,6 +15,9 @@
     <logicalFolder name="SourceFiles"
                    displayName="Source Files"
                    projectFiles="true">
+      <itemPath>Counter.cpp</itemPath>
+      <itemPath>Customer.cpp</itemPath>
+      <itemPath>Display.cpp</itemPath>
       <itemPath>main.cpp</itemPath>
     </logicalFolder>
     <logicalFolder name="TestFiles"
@@ -39,6 +45,18 @@
           <standard>11</standard>
         </ccTool>
       </compileType>
+      <item path="Counter.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="Counter.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="Customer.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="Customer.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="Display.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="Display.h" ex="false" tool="3" flavor2="0">
+      </item>
       <item path="main.cpp" ex="false" tool="1" flavor2="0">
       </item>
     </conf>
@@ -63,6 +81,18 @@
           <developmentMode>5</developmentMode>
         </asmTool>
       </compileType>
+      <item path="Counter.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="Counter.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="Customer.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="Customer.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="Display.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="Display.h" ex="false" tool="3" flavor2="0">
+      </item>
       <item path="main.cpp" ex="false" tool="1" flavor2="0">
       </item>
     </conf>
